@@ -40,7 +40,7 @@ Temos uma visão clara para o futuro do **Impulso IA**. Nossos próximos passos 
 
 Este é um projeto comercial em desenvolvimento. Para consultas de negócio, parcerias ou para se tornar um dos primeiros usuários, entre em contato:
 
-* **E-mail:** `torresgabariel.gt10@gmail.com`
+* **E-mail:** `torresgabriel.gt10@gmail.com`
 * **LinkedIn:** `https://linkedin.com/in/gabriel-t-costa`
 
 ## ⚖️ Licença
