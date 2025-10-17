@@ -23,7 +23,7 @@ Muitas empresas sabem o que querem alcançar, mas lutam para traduzir suas metas
 Para construir esta solução, utilizamos tecnologias modernas e escaláveis, incluindo:
 
 * **Backend:** Laravel
-* **Inteligência Artificial:** Integração com a API da OpenAI (GPT-4)
+* **Inteligência Artificial:** Integração com a API do Google Gemini/OpenAI (gemini-2.5-pro ou GPT-4)
 * **Banco de Dados:** MySQL
 * **Infraestrutura:** Laravel Forge
 
